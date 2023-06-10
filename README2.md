@@ -2,7 +2,7 @@ KOLADEs-MBP:app-nx-workspaces-typescript kolade$ npx create-nx-workspace@latest
 
  >  NX   Let's create a new workspace [https://nx.dev/getting-started/intro]
 
-✔ Where would you like to create your workspace? · nestjs-microservices2
+✔ Where would you like to create your workspace? · nestjs-microservices
 ✔ Which stack do you want to use? · node
 ✔ What framework should be used? · nest
 ✔ Standalone project or integrated monorepo? · integrated
@@ -16,7 +16,7 @@ KOLADEs-MBP:app-nx-workspaces-typescript kolade$ npx create-nx-workspace@latest
    Nx will run "npm install" several times. Please wait.
 
 ✔ Installing dependencies with npm
-✔ Successfully created the workspace: nestjs-microservices2.
+✔ Successfully created the workspace: nestjs-microservices.
 ✔ NxCloud has been set up successfully
 
  ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
@@ -37,3 +37,22 @@ KOLADEs-MBP:app-nx-workspaces-typescript kolade$ npx create-nx-workspace@latest
    with the link. Claim your workspace at the following link to restrict access.
    
    https://cloud.nx.app/orgs/workspace-setup?accessToken=NWEyYjE5NzctMTBlNi00ZjAzLWEzYjEtYjY1YTc4ZTllN2EyfHJlYWQtd3JpdGU=
+
+
+   https://cloud.nx.app/orgs/6483afd627bebb000dd22ff9/workspaces
+
+
+
+
+
+   https://blog.logrocket.com/microservices-nestjs-kafka-typescript/
+
+   https://github.com/mkosir/typeorm-express-typescript/blob/main/src/routes/pages/root.ts
+
+   https://blog.bitsrc.io/solid-principles-in-typescript-153e6923ffdb
+
+   https://blog.logrocket.com/apache-kafka-real-time-data-streaming-app/
+
+   https://blog.logrocket.com/building-rust-microservices-apache-kafka/#getting-started-kafka
+
+   https://levelup.gitconnected.com/nestjs-microservices-with-grpc-api-gateway-and-authentication-part-1-2-650009c03686
